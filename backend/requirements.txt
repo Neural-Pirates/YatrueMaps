@@ -1,0 +1,17 @@
+fastapi==0.115.5
+# jose==1.0.0
+motor==3.6.0
+passlib==1.7.4
+protobuf==5.28.3
+pydantic==2.9.2
+pydantic_settings==2.6.1
+# pymongo==4.7.0
+python-dotenv==1.0.1
+redis==5.2.0
+typing_extensions==4.12.2
+uvicorn==0.15.0
+pydantic[email]
+crypto==1.4.1
+python-jose==3.3.0
+python-multipart
+google-generativeai
